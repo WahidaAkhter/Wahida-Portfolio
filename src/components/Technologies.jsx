@@ -1,4 +1,4 @@
-// src/components/Technologies.jsx
+
 import { motion } from "framer-motion";
 
 import {
@@ -43,16 +43,16 @@ const Technologies = () => {
             key={index}
             className="text-4xl sm:text-6xl"
             animate={{
-              y: [0, -10, 0], // move up 10px and back to 0
+              y: [0, -10, 0],
             }}
             transition={{
               duration: 3,
               repeat: Infinity,
               repeatType: "loop",
               ease: "easeInOut",
-              delay: index * 0.3, // stagger animation start
+              delay: index * 0.3, 
             }}
-            whileHover={{ scale: 1.2 }} // scale up on hover
+            whileHover={{ scale: 1.2 }} 
           >
             {IconComponent}
           </motion.div>
