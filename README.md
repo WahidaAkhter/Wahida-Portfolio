@@ -20,8 +20,8 @@ A modern, responsive React application styled with Tailwind CSS and animated usi
 
 # 🙏 Acknowledgements
 
-https://react.dev/
+[React Documentation](https://react.dev/)
 
-https://tailwindcss.com/
+[Tailwind CSS Docs](https://tailwindcss.com)
 
 [Framer Motion Docs](https://motion.dev/)
