@@ -39,7 +39,7 @@ const Hero = () => {
         </motion.div>
         <div>
           <a
-            href="/WAHIDA RESUME.pdf"
+            href="/wahida_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className=" inline-block bg-blue-800 text-white p-3 rounded-lg hover:bg-blue-600 transition duration-300"
