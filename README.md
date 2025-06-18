@@ -2,7 +2,7 @@
 A modern, responsive React application styled with Tailwind CSS and animated using Framer Motion.
 
 # 🖥️ Live Demo
-🔗 Live Site: https://wahida-portfolio.netlify.app/
+🔗 Live Site: https://wahida-portfolios.netlify.app/
 
 # 🚀 Tech Stack
 ⚛️ React – Component-based UI
