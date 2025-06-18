@@ -44,7 +44,7 @@ const Hero = () => {
             rel="noopener noreferrer"
             className=" inline-block bg-blue-800 text-white p-3 rounded-lg hover:bg-blue-600 transition duration-300"
           >
-            this is my resume
+            View My Resume
           </a>
         </div>
       </div>
